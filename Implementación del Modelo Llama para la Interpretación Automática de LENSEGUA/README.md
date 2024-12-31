@@ -23,6 +23,13 @@ IMPORTANTE: Si no se tiene un GPU para poder cargar localmente los modelos, se n
 ## Comandos para instalar proyecto
 - Utilizar Colab con recursos. Seleccionar una GPY con suficiente espacio para trabajar, al menos 6 de RAM de GPU.
 
+### Dataset de datos a utilizar
+- Datos creados para entrenar modelo originalmente
+- Datos utilizados en ambas LLaMA y GPT-3.5
+
+### Ejecución de NoteBook
+- Siempre instalar todo al principio. Para ver el proceso de entrenamiento, seguir adelante. Para ver el funcionamiento del programa final utilizada, saltar hasta Prubeas y Funcionamiento.
+
 ## Demo
 [Link para el Demo](https://github.com/Roberto-VC/PG-2024-20441/blob/main/Implementaci%C3%B3n%20del%20Modelo%20Llama%20para%20la%20Interpretaci%C3%B3n%20Autom%C3%A1tica%20de%20LENSEGUA/demo/demo.mp4)
 
@@ -30,9 +37,3 @@ IMPORTANTE: Si no se tiene un GPU para poder cargar localmente los modelos, se n
 [Link para el Informe](https://github.com/Roberto-VC/PG-2024-20441/blob/main/Implementaci%C3%B3n%20del%20Modelo%20Llama%20para%20la%20Interpretaci%C3%B3n%20Autom%C3%A1tica%20de%20LENSEGUA/docs/Informe.pdf)
 
 
-### Dataset de datos a utilizar
-- Datos creados para entrenar modelo originalmente
-- Datos utilizados en ambas LLaMA y GPT-3.5
-
-### Ejecución de NoteBook
-- Siempre instalar todo al principio. Para ver el proceso de entrenamiento, seguir adelante. Para ver el funcionamiento del programa final utilizada, saltar hasta Prubeas y Funcionamiento.
