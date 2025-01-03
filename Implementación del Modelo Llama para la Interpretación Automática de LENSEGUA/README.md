@@ -36,4 +36,7 @@ IMPORTANTE: Si no se tiene un GPU para poder cargar localmente los modelos, se n
 ## Informe
 [Link para el Informe](https://github.com/Roberto-VC/PG-2024-20441/blob/main/Implementaci%C3%B3n%20del%20Modelo%20Llama%20para%20la%20Interpretaci%C3%B3n%20Autom%C3%A1tica%20de%20LENSEGUA/docs/Informe.pdf)
 
+## Google Colab
+[Link al Google Colab](https://colab.research.google.com/drive/1VbR9pUMkIEgJlFTuWFnjTiIqU9Pmf-HM)
+
 
